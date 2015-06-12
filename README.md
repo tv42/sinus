@@ -28,8 +28,8 @@ Run just `sinus` or `sinus SUBCOMMAND -help` for help.
 ## Device support
 
 Currently, Sinus works with UPnP media devices supporting the
-[http://upnp.org/specs/av/av1/](av1) spec. It has been mostly tested
-with [http://www.sonos.com/](Sonos) devices, and some actions (`sinus
+[av1](http://upnp.org/specs/av/av1/) spec. It has been mostly tested
+with [Sonos](http://www.sonos.com/) devices, and some actions (`sinus
 play queue`, `sinus line-in`) have Sonos-specific details.
 
 Better multi-device support may happen. Right now, you can use `sinus
