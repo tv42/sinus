@@ -9,7 +9,6 @@ import (
 
 type playCommand struct {
 	subcommands.Description
-	Arguments struct{}
 }
 
 func (c *playCommand) Run() error {
