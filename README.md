@@ -1,5 +1,12 @@
 # Sinus -- command-line remote control for Sonos/UPnP audio devices
 
+## Status
+
+**I no longer own a Sonos device.** This app worked for me in late
+2016, but I cannot test it properly anymore. Feel free to start
+maintaining a more up-to-date fork, it's MIT licensed.
+
+
 ## Installation
 
 ```console
